@@ -1,3 +1,4 @@
+[![PyPI version](https://badge.fury.io/py/pySmithPlot.svg)](http://badge.fury.io/py/pySmithPlot)
 pySmithPlot
 ===========
 
